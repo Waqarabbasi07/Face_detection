@@ -1,0 +1,6 @@
+train: /home/waqar/scrapper/Aziz_facedector/FaceRecognition2/data/data/images/train
+val: /home/waqar/scrapper/Aziz_facedector/FaceRecognition2/data/data/images/val
+ 
+
+nc: 1
+names: ['face']
